@@ -1,0 +1,11 @@
+{
+    "name": "christiancainglet/niceadmin",
+    "autoload": {
+        "psr-4": {
+            "Christiancainglet\\Niceadmin\\": "src/"
+        }
+    },
+    "require": {
+        "phpoffice/phpspreadsheet": "^2.0"
+    }
+}
